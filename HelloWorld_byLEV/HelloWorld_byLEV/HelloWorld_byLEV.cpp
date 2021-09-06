@@ -14,7 +14,7 @@ int main()
 
     int x;
     cin >> x;
-    if(x==0) cout << x;
+    if(x==0) cout << "Hello WORLD!";
 }
 
 
